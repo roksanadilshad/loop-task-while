@@ -1,14 +1,14 @@
 //subtask-1
-// let num = 81;
-// let sum = 0;
+let num = 81;
+let sum = 0;
 
-// while(num < 131){
-//     if(num % 2 !== 0){
-//         sum += num
-//     }
-//     num++
-// }
-// console.log(sum)
+while(num < 131){
+    if(num % 2 !== 0){
+        sum += num
+    }
+    num++
+}
+console.log(sum)
 
 //subtast-2
 let num2 = 206;
